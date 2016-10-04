@@ -1,6 +1,6 @@
 cask 'winbox' do
-  version '3.4'
-  sha256 'a6d796bdbc2e28ecbb7e424202ea9e7c3389eac4fcbde082b8a33756c0c42731'
+  version '3.6'
+  sha256 '4505b849401da318b05b16efa8f9ac44d044734af319ec8e1dd3c48c3d2e0e5c'
 
   url "http://joshaven.com/Winbox4Mac_#{version}.dmg"
   name 'Winbox4Mac'
